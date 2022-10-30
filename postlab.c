@@ -8,6 +8,7 @@ int main()
     while(n!=3){
     printf("Type 1 for \"first class\"\nType 2 for \"economy class\"\n");
     printf("Enter 3 to exit\n");
+	    printf("just checking the commit\n");
     printf("Select type of class:");
     scanf("%d",&n);
     while((n!=1) && (n!=2) && (n!=3)){
